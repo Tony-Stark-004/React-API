@@ -1,0 +1,92 @@
+{
+  "status": "ok",
+  "totalResults": 13,
+  "articles": [
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": null,
+      "title": "Full transcript of \"Face the Nation\" on Jan. 22, 2023",
+      "description": "On this \"Face the Nation\" broadcast, Reps. Daniel Goldman and Christ Stewart join Margaret Brennan.",
+      "url": "https://www.cbsnews.com/news/full-transcript-face-the-nation-jan-22-2023/",
+      "urlToImage": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/01/22/09f47173-f165-448a-9a05-51e6ec9a5101/thumbnail/1200x630/601e44a793c7498c0f4e2cb0a4522f3d/0122-ftn-page2-1645778-640x360.jpg",
+      "publishedAt": "2023-01-22T19:29:00+00:00",
+      "content": "On this \"Face the Nation\" broadcast, moderated by Margaret Brennan: \r\n<ul><li>Rep. MikeTurner, Republican of Ohio\r\n</li><li>Sen. Tim Kaine, Democrat of Virginia\r\n</li><li>Mayors Francis Suarez of Mia… [+51497 chars]"
+    },
+    {
+      "source": { "id": "nhl-news", "name": "NHL News" },
+      "author": "NHL.com",
+      "title": "Projected lineups, starting goalies for today",
+      "description": "Below are projected lineups compiled by NHL.com staff writers and independent correspondents. For more fantasy coverage, visit NHL.com/Fantasy and subscribe for free to the \"NHL Fantasy on Ice\" podcast.",
+      "url": "https://www.nhl.com/news/nhl-lineups-goalie-starters-fantasy-projections-injury-updates/c-278165828",
+      "urlToImage": "https://cms.nhl.bamgrid.com/images/photos/300583846/1024x576/cut.jpg",
+      "publishedAt": "2023-01-22T16:22:11Z",
+      "content": "Below are projected lineups compiled by NHL.com staff writers and independent correspondents. For more fantasy coverage, visit NHL.com/Fantasy and subscribe for free to the \"NHL Fantasy on Ice\" podca… [+2451 chars]"
+    },
+    {
+      "source": { "id": "google-news-in", "name": "Google News (India)" },
+      "author": null,
+      "title": "\"Emperor, Courtiers Insecure\": Trinamool's Mahua Moitra Shares BBC Link",
+      "description": "The Information and Broadcasting (I&B) Ministry has asked for links to the first episode of the BBC documentary be blocked, sources have said.",
+      "url": "https://www.ndtv.com/india-news/with-tweet-against-censorship-trinamools-mahua-moitra-shares-bbc-link-3714696",
+      "urlToImage": "https://c.ndtvimg.com/2022-07/vaflt8ic_mahua-moitra-pti_625x300_07_July_22.jpg",
+      "publishedAt": "2023-01-22T14:37:30+00:00",
+      "content": "Mahua Moitra said efforts to block the BBC documentary were \"censorship\"\r\nNew Delhi: Trinamool Congress MP Mahua Moitra on Sunday shared the link to a documentary on the 2002 Gujarat riots and Prime … [+2973 chars]"
+    },
+    {
+      "source": { "id": "polygon", "name": "Polygon" },
+      "author": "Michael McWhertor",
+      "title": "The Callisto Protocol gets new game plus mode, bug fixes in new patch",
+      "description": "Striking Distance Studios’ The Callisto Protocol gets a much-needed new feature in New Game Plus, but Hardcore mode and other quality of life features the sci-fi horror game desperately needs are still a ways off.",
+      "url": "https://www.polygon.com/23564428/callisto-protocol-update-new-game-plus-patch-changes",
+      "urlToImage": "https://cdn.vox-cdn.com/thumbor/iL6fCGu9DC3uP-82EJ3tUNIg308=/0x0:3840x2010/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/24248782/The_Callisto_Protocol__20221201173637.jpg",
+      "publishedAt": "2023-01-20T20:23:13Z",
+      "content": "Developer Striking Distance Studios released a new update for its sci-fi horror game, The Callisto Protocol, on Thursday, with the biggest new addition coming in the form of a new game plus mode. Tha… [+2497 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Special Section: Bold & Blunt Podcast",
+      "description": "Washington Times online opinion editor Cheryl Chumley brings her no-holds-barred take on the big issues of the day.",
+      "url": "https://www.washingtontimes.com/specials/bold-blunt-podcast/",
+      "urlToImage": "https://media.washtimes.com/media/specials/thumbnails/BoldBluntThumbnailB.jpg",
+      "publishedAt": "2023-01-17T20:07:38.8409515Z",
+      "content": "Listen here or click the RSS icon \r\n() below to subscribe. Available on Apple Podcasts, Google, Stitcher, TuneIn, Spotify, or wherever you get your podcasts. For comments or feedback, email media@was… [+1597 chars]"
+    },
+    {
+      "source": {
+        "id": "the-washington-times",
+        "name": "The Washington Times"
+      },
+      "author": "The Washington Times https://www.washingtontimes.com",
+      "title": "Special Section: History As It Happens Podcast",
+      "description": "This is a podcast for people who want to think historically about current events. History As It Happens, hosted by award-winning broadcaster Martin Di Caro, features interviews with today’s top scholars and thinkers, interwoven with audio from history’s archi…",
+      "url": "https://www.washingtontimes.com/specials/history-happens-podcast/",
+      "urlToImage": "https://media.washtimes.com/media/specials/thumbnails/HistoryAsItHappensThumbnailV2.jpg",
+      "publishedAt": "2023-01-17T12:22:47.0214436Z",
+      "content": "Listen here or click the RSS icon \r\n() below to subscribe. Available on Apple Podcasts, Google, Stitcher, TuneIn, Spotify, or wherever you get your podcasts. For comments or feedback, email media@was… [+3386 chars]"
+    },
+    {
+      "source": { "id": "usa-today", "name": "USA Today" },
+      "author": null,
+      "title": "USA TODAY Podcasts",
+      "description": "Stay informed, and delightfully entertained, with USA TODAY Podcasts, including 5 Things, The City Podcast, Talking Tech and more.",
+      "url": "https://www.usatoday.com/podcasts/",
+      "urlToImage": "https://www.gannett-cdn.com/usat-storytelling/usatpodmedia/USAT_Podcasts_MetaImage.png",
+      "publishedAt": "2022-12-16T05:13:09+00:00",
+      "content": "USA TODAY podcasts bring a fresh mix and perspective on the nation's news and stories straight to your earbuds. Catch up on the daily news that matters most - from breaking news with 5 Things to the … [+397 chars]"
+    },
+    {
+      "source": { "id": "ign", "name": "IGN" },
+      "author": null,
+      "title": "Big News For Harley Quinn on HBO Max - IGN The Fix: Entertainment - IGN",
+      "description": "<section class=\"video-page\"><p>Harley Quinn season 4 is coming to HBO Max, and fans of the DC animated series are excited. In the wake of a bunch of canceled animated shows, #HBOMax is showing some favor to a special malet-wielding, pigtailed deviant named #H…",
+      "url": "https://www.ign.com/videos/big-news-for-harley-quinn-on-hbo-max-ign-the-fix-entertainment",
+      "urlToImage": "https://assets-prd.ignimgs.com/2022/08/31/efix-083122-blogroll-1661978432833.jpg?width=1280",
+      "publishedAt": "2022-09-01T17:52:24.9579624Z",
+      "content": "Harley Quinn season 4 is coming to HBO Max, and fans of the DC animated series are excited. In the wake of a bunch of canceled animated shows, #HBOMax is showing some favor to a special malet-wieldin… [+239 chars]"
+    }
+  ]
+}
